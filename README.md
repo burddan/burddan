@@ -1,5 +1,2 @@
-oi
-jogo minecraft
-e faço server de minecraft
-e jogo minecraft
-
+i use arch btw
+future sysadmin
