@@ -1,1 +1,1 @@
-gentoo socks
+discord: burddan
